@@ -35,7 +35,7 @@ You can use this api: https://github.com/m1ngyuan/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/fusion-reactor/fusion-reactor-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
