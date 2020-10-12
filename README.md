@@ -1,5 +1,5 @@
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://github.githubassets.com/images/modules/notifications/filters-zero.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/m1ngyuan/m1ngyuan/master/git-header.svg" />
 
 <!--
 **m1ngyuan/m1ngyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
